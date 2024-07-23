@@ -47,3 +47,4 @@ function displaySubtractQuestion() {
 
 function displayMultiplyQuestion() {
     
+}
